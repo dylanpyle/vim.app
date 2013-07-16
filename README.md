@@ -10,3 +10,6 @@ cp -r vim.app /Applications
 
 ## Usage
 ![Screenshot](http://f.cl.ly/items/3W1n35173n1i0s371s0d/Screen%20Shot%202013-07-15%20at%2010.59.54%20PM.png)
+
+## Credits
+Icon from [Open Icon Library](http://openiconlibrary.sourceforge.net/)
